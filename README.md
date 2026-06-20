@@ -43,6 +43,12 @@ or
 dotnet build -p:WebApplicationsTargetPath="C:\Program Files\Microsoft Visual Studio\18\Professional\MSBuild\Microsoft\VisualStudio\v18.0\WebApplications\Microsoft.WebApplication.targets"
 ```
 
+or
+
+```powershell
+.\build.ps1
+```
+
 ## Result
 
 ```shell
